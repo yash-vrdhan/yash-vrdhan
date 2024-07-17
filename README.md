@@ -1,55 +1,49 @@
 <h1 align="center">Hi 👋, I'm Yash Singh</h1>
 <h3 align="center">A passionate Computer Science Engineering student with a strong passion for technology and refined problem-solving skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsingh14&label=Profile%20views&color=0e75b6&style=flat" alt="yashsingh14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-vrdhan&label=Profile%20views&color=0e75b6&style=flat" alt="yashsingh14" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yashsingh14" target="blank"><img src="https://img.shields.io/twitter/follow/yashsingh14?logo=twitter&style=for-the-badge" alt="yashsingh14" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yash_Vrdhn" target="blank"><img src="https://img.shields.io/twitter/follow/yash_Vrdhn?logo=twitter&style=for-the-badge" alt="yashsingh14" /></a> </p>
 
 - 🔭 I’m currently working on **Tripti | Meal Prediction Model for Food Waste Reduction**
 
 - 🌱 I’m currently learning **Machine Learning, Data Analysis, Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashsingh14](https://github.com/yashsingh14)
+- 👨‍💻 All of my projects are available at [https://github.com/yash-vrdhan](https://github.com/yash-vrdhan)
 
 - 💬 Ask me about **C++, Java, Python, SQL, MongoDB, Express.js, React.js, Node.js, Bootstrap**
 
 - 📫 How to reach me **yashs3326@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/yashsingh14/](https://linkedin.com/in/yashsingh14/)
+- 📄 Know about my experiences [linkedin.com/in/yash-singh14/](https://linkedin.com/in/yash-singh14/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yashsingh14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yashsingh14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashsingh14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yashsingh14" height="30" width="40" /></a>
+<a href="https://twitter.com/yash_Vrdhn" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="yashsingh14" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/yash-singh14" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yashsingh14" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
 </p>
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsingh14&show_icons=true&locale=en&layout=compact" alt="yashsingh14" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-vrdhan&show_icons=true&locale=en&layout=compact&theme=dark" alt="yashsingh14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsingh14&show_icons=true&locale=en" alt="yashsingh14" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-vrdhan&show_icons=true&locale=en&theme=dark" alt="yashsingh14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsingh14&" alt="yashsingh14" /></p>
-
-<h3 align="left">Latest Blog Posts:</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-vrdhan&theme=dark" alt="yashsingh14" /></p>
 
 ## 📝 Education
 
@@ -94,4 +88,3 @@
 - Presented paper at **Twelfth International Conference ComNet** by ACEECom, 2022, attended by 500+ professionals
 
 ---
-
