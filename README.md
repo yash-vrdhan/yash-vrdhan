@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yash-vrdhan
 - 👀 I’m interested in Coding, Creating Electronic Music and reading.
-- 🌱 I’m currently learning Java and Full stack web development
-- 💞️ I’m looking to collaborate on any intresting JAVA or Python project
+- 🌱 I’m currently learning C++ and Machine Learning
+- 💞️ I’m looking to collaborate on any intresting ML and Web Dev project
 - 📫 You can reach me at yashs3326@gmail.com
 
 <!---
